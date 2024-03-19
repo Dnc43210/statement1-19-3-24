@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cpimg.tistatic.com/07545235/b/4/TeeDoll-200.jpg",
+        "name": "Pain Relief Tablets",
+        "description": "Effective relief for headaches, muscle aches, and minor arthritis pain.",
+        "price": 99.99
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81YseJFnvoS.jpg",
+        "name": "Allergy Relief Syrup",
+        "description": "Provides fast-acting relief from seasonal allergies and hay fever symptoms.",
+        "price": 120.49
+    },
+    {
+        "image": "https://images-cdn.ubuy.co.in/636aec852a97d46a035eca63-70ml-hand-sanitizer-gel-antibacterial.jpg",
+        "name": "Antibacterial Hand Gel",
+        "description": "Kills 99.9% of germs and bacteria on hands without water.",
+        "price": 50.99
+    },
+    {
+        "image": "https://pacome.in/wp-content/uploads/2021/12/Immunity-and-Health-Booster-1.jpg",
+        "name": "Multivitamin Capsules",
+        "description": "Supports overall health and well-being with essential vitamins and minerals.",
+        "price": 150.99
+    }
+]

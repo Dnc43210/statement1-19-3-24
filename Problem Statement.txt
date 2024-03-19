@@ -1,0 +1,17 @@
+Landing page of a pharmacy. 
+ 
+Should have 4 nav bar links. Home, 
+About, Products, Contact. 
+ 
+Contact form should be validated using 
+JS and show an alert if the validation 
+succeeds. Product page should list 
+some of their popular products with 
+image, name, short description, and 
+price. You can use statis JSON file 
+for the products. The page should be 
+fully responsive. You can design the 
+page as you wish. No need to use any 
+API. This is fully front-end task.
+ 
+Deadline is EOD today.
